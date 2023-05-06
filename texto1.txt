@@ -2,3 +2,4 @@ Hola estoy empezando a usar git
 Esta es una segunda linea
 Esta es la tercera linea del codigo
 Colocando emojis al los commit
+Correccion de codigo fuente en interfaz grafica
